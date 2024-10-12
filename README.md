@@ -14,4 +14,4 @@ Python is the porgramming language used : Main packages include:
 7)sklearn(depriciated) ....current package to install for sklearn methods **scikit-learn**
 to install scikit-learn .....type and enter the command: pip install scikit-learn
 
-Futher enhancements will be made 
+Futher enhancements are planned 
